@@ -26,3 +26,8 @@ If you contact to me >> 📧 toproot.dev@gmail.com
 <div>
 	<img src="https://img.shields.io/badge/SECS/GEM-0E9648?style=flat&logo=Socket.io&logoColor=white" />
 </div>
+
+### Follow Me! 🎨
+
+[![Tech Blog Badge](https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=Tistory&logoColor=white&link=https://toproot.tistory.com/)](https://toproot.tistory.com/)
+
