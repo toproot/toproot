@@ -5,31 +5,25 @@
 I work as a factory automation software developer at ATK. <br/>
 If you contact to me >> 📧 toproot.dev@gmail.com <br/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftoproot&count_bg=%232FB5FF&title_bg=%23555555&icon=imgur.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <br/>
+[![Tech Blog Badge](https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=Tistory&logoColor=white&link=https://toproot.tistory.com/)](https://toproot.tistory.com/)
+
+## 📚 Study
+
+- SSAFY 5th
+- Bigdata SW Dev - SMHRD
 
 
-### Tech Stack 🧑🏻‍💻
+
+## 🛠 Tech Stack
+
 <div>
 	<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-</ div>
-
-### Platform 🛠️
-<div>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</ div>
-
-### Network 📡
-
-<div>
 	<img src="https://img.shields.io/badge/SECS/GEM-0E9648?style=flat&logo=Socket.io&logoColor=white" />
-</div>
-
-### Follow Me! 🎨
-
-[![Tech Blog Badge](https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=Tistory&logoColor=white&link=https://toproot.tistory.com/)](https://toproot.tistory.com/)
+</ div>
