@@ -9,12 +9,12 @@ If you contact to me >> 📧 toproot.dev@gmail.com <br/>
 
 ## 📚 Study
 
-- SSAFY 5th
-- Bigdata SW Dev - SMHRD
+- SSAFY 5th (2021)
+- Bigdata SW Dev - SMHRD (2020)
 
 ## 💼 Work
 
-- Amkor Technology Korea / Samrt Factory Automation SW Dev.
+- Amkor Technology Korea / Samrt Factory Automation SW Dev (2022 ~ )
 
 
 ## 🛠 Tech Stack
