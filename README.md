@@ -10,8 +10,9 @@ If you contact to me >> 📧 toproot.dev@gmail.com <br/>
 ## 📚 Study
 
 - Sejong_Cyber_University - Computer Science/AI (2023)
-- SSAFY 5th (2021)
+- SSAFY 5th (2021~2022)
 - Bigdata SW Dev - SMHRD (2020)
+- Chosun_University - Business Administration/Marketing (2015 ~ 2021)
 
 ## 💼 Work
 
